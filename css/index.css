@@ -49,3 +49,10 @@ body{
     font-weight:400;
     font-size:.8em
 }
+
+footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: .5rem;
+}
